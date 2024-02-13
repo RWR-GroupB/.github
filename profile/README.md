@@ -10,14 +10,14 @@ We are Andrina Frischknecht-Grimm, Shubham Gupta, Zeno Hamers, Deepana Ishtaweer
 ### Ball Rotation Task
 | Simulation | On Physical Robot |
 |----------|----------|
-| Content 1A | Content 2A |
-| Content 1B | Content 2B |
+| ![](https://github.com/RWR-GroupB/.github/blob/main/ball_sim_clockwise.gif) | ![](https://github.com/RWR-GroupB/.github/blob/main/ball_real_clockwise.gif) |
+| ![](https://github.com/RWR-GroupB/.github/blob/main/ball_sim_counterclockwise.gif) | ![](https://github.com/RWR-GroupB/.github/blob/main/ball_real_counterclockwise.gif) |
 
 ### Cube Rotation Task
 | Simulation | On Physical Robot |
 |----------|----------|
-| Content 1A | Content 2A |
-| Content 1B | Content 2B |
+| ![](https://github.com/RWR-GroupB/.github/blob/main/cube_sim_clockwise.gif) | ![](https://github.com/RWR-GroupB/.github/blob/main/cube_real_clockwise.gif) |
+| ![](https://github.com/RWR-GroupB/.github/blob/main/cube_sim_counterclockwise.gif) | ![](https://github.com/RWR-GroupB/.github/blob/main/cube_real_counterclockwise.gif) |
 
 
 
